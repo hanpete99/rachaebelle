@@ -1,0 +1,55 @@
+header img{
+	border-radius: 180px;
+	width: 300px;
+	border: 20px;
+	margin-bottom: 20px;
+}
+
+header{
+	text-align: center;
+	background-color: white;
+	color: black;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 45px;
+}
+
+header h2{
+	font-size: 20px;
+	word-spacing: 50px;
+}
+
+body{
+	font-family: 'Abril Fatface', cursive; 
+	text-align: center;
+	margin: 0;
+}
+
+.menu{
+	padding: 5px;
+	text-align: center;
+	line-height: 30px;
+}
+
+ul.menu{
+	margin-top: 15px;
+}
+
+.menu li{
+	display: inline;
+}
+
+nav{
+	word-spacing: 70px;
+	font-size: 20px;
+}
+
+.menu a{
+	color: black;
+	text-decoration: none;
+}
+
+.menu a:hover{
+	color: #bdecf0;
+}
